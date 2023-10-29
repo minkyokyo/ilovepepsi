@@ -1,0 +1,10 @@
+Library/
+UserSettings/
+Logs/
+Temp/
+
+# Visual Studio cache directory
+.vscode/
+
+*.csproj
+*.sln 
